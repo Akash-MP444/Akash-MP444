@@ -9,7 +9,7 @@ B.Tech Computer Science · PES University · 2024–2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-mp444)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Akash-MP444)
-[![Profile Views](https://komarev.com/ghpvc/?username=Akash-MP444&style=flat&color=6366f1&label=Profile+Views)](https://github.com/Akash-MP444)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amp456369@gmail.com)
 
 </div>
 
@@ -112,21 +112,6 @@ Classic game rebuilt with authentication, persistent leaderboard tracking, multi
 
 `C` `Game Logic` `Authentication` `Leaderboard`
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-MP444&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=6366f1&icon_color=6366f1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-MP444&layout=compact&theme=github_dark&hide_border=true&title_color=6366f1&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Akash-MP444&theme=github-dark&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)
-
-</div>
-
----
 
 ## Goals for 2026
 
